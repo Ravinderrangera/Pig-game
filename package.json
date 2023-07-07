@@ -1,0 +1,14 @@
+{
+  "name": "piggame",
+  "version": "1.0.0",
+  "description": "It's a two player game where you can roll the dice and and gather the scores.",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Ravinder",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
